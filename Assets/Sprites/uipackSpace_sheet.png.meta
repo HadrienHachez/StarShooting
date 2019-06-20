@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 23f30d4be6779c14a85544d72074389a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8064986394201839719
+    second: uipackSpace_sheet_0
+  - first:
+      213: -3149080751089927819
+    second: uipackSpace_sheet_1
+  - first:
+      213: 7305025650002627939
+    second: uipackSpace_sheet_2
+  - first:
+      213: -4820332787661257093
+    second: uipackSpace_sheet_3
+  - first:
+      213: -2971685843185732473
+    second: uipackSpace_sheet_4
+  - first:
+      213: -4054645116845792896
+    second: uipackSpace_sheet_5
+  - first:
+      213: -1867471744214486524
+    second: uipackSpace_sheet_6
+  - first:
+      213: -7305116295349812189
+    second: uipackSpace_sheet_7
+  - first:
+      213: 6574061092719365580
+    second: uipackSpace_sheet_8
+  - first:
+      213: -8387751379867746058
+    second: uipackSpace_sheet_9
+  - first:
+      213: -7686184513379155958
+    second: uipackSpace_sheet_10
+  - first:
+      213: -5101312401461952751
+    second: uipackSpace_sheet_11
+  - first:
+      213: -47828434629211411
+    second: uipackSpace_sheet_12
+  - first:
+      213: -7466474258902802528
+    second: uipackSpace_sheet_13
+  - first:
+      213: -8163541527685898568
+    second: uipackSpace_sheet_14
+  - first:
+      213: -8476104339530421244
+    second: uipackSpace_sheet_15
+  - first:
+      213: -7799606758824376140
+    second: uipackSpace_sheet_16
+  - first:
+      213: 5788360045085674988
+    second: uipackSpace_sheet_17
+  - first:
+      213: -3697638588053745643
+    second: uipackSpace_sheet_18
+  - first:
+      213: 6093199521058172504
+    second: uipackSpace_sheet_19
+  - first:
+      213: 3769083766744375755
+    second: uipackSpace_sheet_20
+  - first:
+      213: -1304872339431382713
+    second: uipackSpace_sheet_21
+  - first:
+      213: -8123458820953776852
+    second: uipackSpace_sheet_22
+  - first:
+      213: -7373892936492961701
+    second: uipackSpace_sheet_23
+  - first:
+      213: 861148464637962837
+    second: uipackSpace_sheet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uipackSpace_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad4c1770646d141b4ff6b51908d409
+      internalID: -8064986394201839719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad95d728cdacc14099509c253e8c667
+      internalID: -3149080751089927819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 412
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3a571a13e7804d8cd5ff73118323c
+      internalID: 7305025650002627939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 412
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942a0dd0763cbb47b0d292cf5938de3
+      internalID: -4820332787661257093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee61e11ae912b4895d5b6cc94522fb
+      internalID: -2971685843185732473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba93eedbcfc94418bb4463caf1a8c2
+      internalID: -4054645116845792896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 312
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf914ab755972a241bc2d807e3c5f01a
+      internalID: -1867471744214486524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5afbc78ccbc5a149b83b344739c4ddb
+      internalID: -7305116295349812189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 312
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35bfd402a77c7478230d6b13175f34
+      internalID: 6574061092719365580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 312
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e2ecc2d7fa344ab1afe8b108c8d07
+      internalID: -8387751379867746058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc707427d0bb1d4e9137afbe9f0e2fe
+      internalID: -7686184513379155958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1aba706479789429bbde75bc88cfb2
+      internalID: -5101312401461952751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 212
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5264d4f51cc144b8f82fc3e7f1b75
+      internalID: -47828434629211411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af4059b2514a14c94b1270f37cb975
+      internalID: -7466474258902802528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 212
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4181c2051a50f41adc8703670e1206
+      internalID: -8163541527685898568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a6a60e9ecdce443b79a886c8dced98
+      internalID: -8476104339530421244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ed70568647f943aea2e2153866bc9
+      internalID: -7799606758824376140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b77dd48af4184a8872308c58cee95
+      internalID: 5788360045085674988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd18c24b08b454797f159f856ba0d0
+      internalID: -3697638588053745643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d24b97fbd457a4c892c3f2328432d4
+      internalID: 6093199521058172504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0940746b6db654095836aab3b2e3ec
+      internalID: 3769083766744375755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06626f5b7d59861479a6be902432fffa
+      internalID: -1304872339431382713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73297d9e1175ac64e9d66f8a7df42dcc
+      internalID: -8123458820953776852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460a212f1d321948be15fbdf94cb013
+      internalID: -7373892936492961701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uipackSpace_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 100
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb163ba263e6fd43aa609bc8e4732d4
+      internalID: 861148464637962837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
