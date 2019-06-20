@@ -1,0 +1,4 @@
+# StarShooting
+## Librairies
+- Unity
+- Newtonsoft
